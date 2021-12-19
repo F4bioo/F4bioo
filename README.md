@@ -1,8 +1,8 @@
 ### Hi there 👋
-🔭 I’m Fabio Costa, currently working as Android Engineer at @PicPay
-🇧🇷 I'm from Brazil
-💬 Ping me about android, kotlin, programming, games, job
-⚡ Fun fact: I'm afraid of heights, but I like sports in the air
+- 🔭 I’m Fabio Costa, currently working as Android Engineer at @PicPay
+- 🇧🇷 I'm from Brazil
+- 💬 Ping me about android, kotlin, programming, games, job
+- ⚡ Fun fact: I'm afraid of heights, but I like sports in the air
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fappslab/)
 [![Protfolio](https://img.shields.io/website?label=fappslab.com&style=for-the-badge&url=https://fappslab.com)](https://fappslab.com/)
