@@ -5,6 +5,7 @@
 - ⚡ Fun fact: I'm afraid of heights, but I like sports in the air
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fappslab/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@costa.fbo)
 [![Protfolio](https://img.shields.io/website?label=fappslab.com&style=for-the-badge&url=https://fappslab.com)](https://fappslab.com/)
 
 ![Fabio's GitHub stats](https://github-readme-stats.vercel.app/api?username=F4bioo&show_icons=true)
