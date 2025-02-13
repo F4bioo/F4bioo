@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m Fabio Costa, currently working as Android Engineer at @ifood
+- 🔭 I’m Fabio Costa, currently working as Android Engineer at @mercadobitcoin
 - 🇧🇷 I'm from Brazil
 - 💬 Ping me about android, kotlin, programming, games, job
 - ⚡ Fun fact: I'm afraid of heights, but I like sports in the air
